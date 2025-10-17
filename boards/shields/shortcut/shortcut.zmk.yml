@@ -1,0 +1,8 @@
+file_format: "1"
+id: shortcut
+name: Shortcut
+type: shield
+url: https://catnapkeyboards.com
+requires: [pro_micro]
+features:
+  - keys
